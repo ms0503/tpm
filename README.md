@@ -19,9 +19,9 @@ tpm is the package manager for Linux.
 ## 参照/Reference
 
 ## 作者/Author
-Sora Tonami &lt;ms0503@outlook.com&gt;
-<img src="https://projectr.ddo.jp/res/logo.png" height="15" />[Homepage](https://projectr.ddo.jp/)
-<img src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico" height="15" />[Facebook](https://www.facebook.com/ms0503f/)
+Sora Tonami &lt;ms0503@outlook.com&gt;  
+<img src="https://projectr.ddo.jp/res/logo.png" height="15" />[Homepage](https://projectr.ddo.jp/)  
+<img src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico" height="15" />[Facebook](https://www.facebook.com/ms0503f/)  
 <img src="https://abs.twimg.com/favicons/twitter.ico" height="15" />[Twitter](https://twitter.com/ms0503_/)
 
 ## ライセンス/License
