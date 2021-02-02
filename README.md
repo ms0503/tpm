@@ -25,4 +25,4 @@ Sora Tonami &lt;ms0503@outlook.com&gt;
 <img src="https://abs.twimg.com/favicons/twitter.ico" height="15" />[Twitter](https://twitter.com/ms0503_/)
 
 ## ライセンス/License
-<a href="https://www.gnu.org/licenses/gpl-3.0.html"><div style="background: url(https://raw.githubusercontent.com/ms0503/tpm/master/resources/license-logos-by-christian-candena-cc-by.png) 0px 0px; height: 54px; width: 150px"></div></a>
+<a href="https://www.gnu.org/licenses/gpl-3.0.html"><div style="background: url(https://github.com/ms0503/tpm/raw/master/resources/license-logos-by-christian-candena-cc-by.png) 0px 0px; height: 54px; width: 150px"></div></a>
