@@ -3,5 +3,14 @@
 		{
 			"path": "."
 		}
+	],
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools"
+		]
+	},
+	"recommendations": [
+		"ms-vscode.cpptools",
+		"austin.code-gnu-global"
 	]
 }

@@ -1,0 +1,23 @@
+{
+    "author": "Sora Tonami <ms0503@outlook.com> (https://projectr.ddo.jp/members/Sora_Tonami/)",
+    "bugs": {
+        "url": "https://github.com/ms0503/tpm/issues"
+    },
+    "description": "tpm is the package manager for Linux.",
+    "homepage": "https://github.com/ms0503/tpm#readme",
+    "keywords": [
+        "packagemanager"
+    ],
+    "license": "GPL-2.0-or-later",
+    "main": "src/tpm.js",
+    "name": "tpm",
+    "repository": {
+        "type": "git",
+        "url": "github:ms0503/tpm.git"
+    },
+    "scripts": {
+        "start": "",
+        "test": "node ."
+    },
+    "version": "1.0.0"
+}
