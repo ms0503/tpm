@@ -1,0 +1,7 @@
+Error Number List
+
+0 - Success.
+1 - Node.js is not found.
+2 - Windows is not supported.
+3 - Invalid option.
+4 - Invalid command.

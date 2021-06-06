@@ -1,5 +1,20 @@
 #!/bin/bash
 
+function getOSArch () {
+    case "$(uname -p)" in
+        x86_64)
+            ARCH=64
+            ;;
+        i[3-6]86)
+            ARCH=32
+            ;;
+        *)
+            ARCH=unsupported
+            ;;
+    esac
+    echo $ARCH
+}
+
 function getOSName () {
     if [ "$(uname)" == "Darwin" ]; then
         OS="mac"

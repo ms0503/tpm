@@ -1,0 +1,13 @@
+{
+    "msgs": {
+        "cmd_find": "find the package.",
+        "cmd_help": "display this help.",
+        "cmd_install": "install the package(s).",
+        "cmd_sync": "synchronize the package lists.",
+        "cmd_upgrade": "upgrade the package(s).",
+        "cmd_version": "display tpm version.",
+        "invalid_option": "Error: invalid option.",
+        "opt_yes": "Answer all questions with `y'.",
+        "usage": "Usage:\n # tpm <sub-command> [options...]\n\n$$COMMANDS$$\n\n[[OPTIONS]]\n\nRepository: https://github.com/ms0503/tpm/"
+    }
+}

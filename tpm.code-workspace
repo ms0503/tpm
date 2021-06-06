@@ -1,16 +1,21 @@
 {
-	"folders": [
-		{
-			"path": "."
-		}
-	],
 	"extensions": {
 		"recommendations": [
 			"ms-vscode.cpptools"
 		]
 	},
+	"folders": [
+		{
+			"path": "."
+		}
+	],
 	"recommendations": [
-		"ms-vscode.cpptools",
-		"austin.code-gnu-global"
-	]
+		"austin.code-gnu-global",
+		"ms-vscode.cpptools"
+	],
+	"settings": {
+		"cSpell.words": [
+			"packagemanager"
+		]
+	}
 }
